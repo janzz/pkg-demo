@@ -1,0 +1,15 @@
+{
+    "name": "janzz/test-pkg",
+    "description": "test package to publish",
+    "authors": [
+        {
+            "name": "janzz",
+            "email": "jankeazz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Janzz\\ComposerPackageDemo\\": "src/"
+        }
+    }
+}
